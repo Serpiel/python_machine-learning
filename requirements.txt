@@ -1,0 +1,7 @@
+# Librairies python utilisées pour le projet
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Commande : pip install -r requirements.txt
